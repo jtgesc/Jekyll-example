@@ -5,10 +5,13 @@ excerpt: This is a test excerpt
 header:
     overlay_image: /assets/images/istockphoto-2192736916-1024x1024.jpg
     actions:
-        - Label: "Learn More"
+        - label: "Learn More"
           url: /about
+        - label: "Activities
           url: /Activities
+        - label: "History"
           url: /History
+        - label: "Dining"
           url: /Dining
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
