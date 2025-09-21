@@ -7,6 +7,9 @@ header:
     actions:
         - Label: "Learn More"
           url: /about
+          url: /Activities
+          url: /History
+          url: /Dining
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 
