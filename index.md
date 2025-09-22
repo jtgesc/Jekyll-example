@@ -17,4 +17,4 @@ header:
 ---
 
 # This is the homepage to the jungle
-this text should show up below this as my firsat blog post but i guess we will see if that actually works
+The posts below are having trouble being put up on the site
