@@ -7,7 +7,7 @@ header:
     actions:
         - label: "Learn More"
           url: /about
-        - label: "Activities
+        - label: "Activities"
           url: /Activities
         - label: "History"
           url: /History
