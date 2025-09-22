@@ -16,4 +16,5 @@ header:
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 
-# This is my homepage
+# This is the homepage to the jungle
+this text should show up below this as my firsat blog post but i guess we will see if that actually works
