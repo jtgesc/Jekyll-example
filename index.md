@@ -1,6 +1,6 @@
 ---
 layout: home 
-title: Welcome Home!
+title: Welcome to the Jungle oasis!
 excerpt: This is the travel to mowglis jungle
 header:
     overlay_image: /assets/images/istockphoto-2192736916-1024x1024.jpg
