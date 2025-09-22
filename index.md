@@ -1,7 +1,7 @@
 ---
 layout: home 
 title: Welcome Home!
-excerpt: This is a test excerpt
+excerpt: This is the travel to mowglis jungle
 header:
     overlay_image: /assets/images/istockphoto-2192736916-1024x1024.jpg
     actions:
